@@ -4,5 +4,6 @@ theme: jekyll-theme-hacker
 header_pages:
   - index.md
   - about.md
+  
 # Show posts on homepage
 show_downloads: false
