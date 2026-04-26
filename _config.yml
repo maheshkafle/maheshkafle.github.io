@@ -1,1 +1,3 @@
-theme: Architect
+title: Mahesh - Pentesting Blog
+description: Writeups, CTFs, and security research
+theme: jekyll-theme-hacker
