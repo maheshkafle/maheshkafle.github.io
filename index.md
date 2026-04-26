@@ -1,6 +1,15 @@
-# Welcome 👋
+# 👨‍💻 Your Name
 
-I’m a pentester sharing writeups and labs.
+Pentester | Bug Bounty Hunter  
 
-## Latest Posts
-Coming soon...
+Welcome to my cybersecurity blog where I share:
+- 🔓 CTF Writeups  
+- 🧪 Labs (Hack The Box / TryHackMe)  
+- 🐞 Bug bounty findings  
+
+---
+
+## 🧠 Latest Writeups
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
