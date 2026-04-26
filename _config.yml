@@ -1,3 +1,6 @@
-title: Mahesh - Pentesting Blog
-description: Writeups, CTFs, and security research
-theme: jekyll-theme-minimal
+title: "Mahesh | Pentester"
+description: "CTF Writeups, Labs, and Security Research"
+theme: jekyll-theme-hacker
+
+# Show posts on homepage
+show_downloads: false
