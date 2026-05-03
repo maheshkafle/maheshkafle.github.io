@@ -5,7 +5,7 @@ This guide covers essential Nmap commands every beginner should know.
 
 ---
 
-🖥️ 1. Scan an Entire Subnet
+🖥️ 1. Basic Host Discovery
 
 Scans a single host to check if it is up and identifies open ports.  
 Useful for quick host checks.
